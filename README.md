@@ -6,11 +6,9 @@ The easiest way to get a quality Python distribution, that includes the librarie
 
 To get started just clone or download the repo, and try to tackle the first part of the workshop.
 
-TOPICS
-======
+## TOPICS
 
-Chapter 1
----------
+### Chapter 1
 
 Part 1: Basics
 '''
@@ -40,8 +38,7 @@ operate over columns
 groupby
 '''
 
-Chapter 2
----------
+### Chapter 2
 
 Part 1: networkx
 '''
